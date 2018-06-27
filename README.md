@@ -1,5 +1,4 @@
 # Pixel-Art-Maker-1.0
-#Best pixel Art Maker
 ## Table of Contents
 
 * [Instructions](#instructions)
